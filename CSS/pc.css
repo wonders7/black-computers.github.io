@@ -31,7 +31,7 @@ header {
 nav {
     background-color: white;
     float: left;
-    height: 700px;
+    height: 800px;
     margin-bottom: 10px;
     padding-left: 10px;
     width: 180px;
@@ -40,7 +40,7 @@ nav {
 section {
     background-color: white;
     color: dimgray;
-    height: 680px;
+    height: 780px;
     margin-bottom: 10px;
     margin-left: 200px;
     padding: 10px;
