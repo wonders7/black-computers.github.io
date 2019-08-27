@@ -16,6 +16,10 @@ header {
     padding: 10px;
 }
 
+img {
+    border: 0;
+}
+
 .bc {
     font-size: 40px;
 }
